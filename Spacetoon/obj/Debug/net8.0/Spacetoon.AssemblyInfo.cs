@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Spacetoon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f678468564d32909d738cb655e1dee25b3b46ed8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Spacetoon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Spacetoon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

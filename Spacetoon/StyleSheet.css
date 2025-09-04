@@ -1,11 +1,15 @@
-﻿#logo{
-    height:75px;
-    width: 150px
+﻿#logo {
+    height: 75px;
+    width: 150px;
+    position: relative;
+    top: 15px;
 }
 
 nav li {
     list-style-type: none;
     display: inline-block;
+    position: relative;
+    bottom: 15px;
 }
 
 nav a {
@@ -16,12 +20,12 @@ nav a {
     margin-right: 25px;
 }
 
-nav a:link , nav a:visited {
+nav a:link , nav a:visited , footer a:link, footer a:visited {
     color: #ffde16;
 }
 
-nav a:hover , nav a:active {
-        color: #20225f
+nav a:hover, nav a:active, footer a:hover, footer a:active {
+        color: #1f26ee
     }
 
 nav ul {
@@ -29,8 +33,149 @@ nav ul {
 }
 
 header{
-/*    background-color: lightcyan;
-*/    background-image: url("Images/space-purple-blue-astronomy-wallpaper.jpg");
+    background-color: lightcyan;
+    background-image: url("Images/space-purple-blue-astronomy-wallpaper.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+#hero{
+    width: 100%;
+    height: 600px;
+    background-image: url("Images/MOAKZHdHCLal8ZIYUOkqUYzoqc.avif");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
+#intro img {
+    width: 40%;
+}
+
+.description{
+    width: 40%;
+}
+
+#intro {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+
+.description {
+    font-family: "Caveat", cursive;
+    font-size: 22px;
+    color: #20225f;
+}
+
+.description p {
+        text-align: justify;
+    }
+
+.card {
+    width: 25%;
+    border: 1px solid #0000ff00;
+    margin-top: 30px;
+    box-shadow: 2px 6px 34px #0034ff40;
+    border-radius: 20px;
+    background-color: aliceblue;
+}
+
+    .card img {
+        width: 100%;
+        height: 260px;
+    }
+
+#container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+#Planets h1 {
+    text-align: center;
+    color: #20225f;
+    font-size: 50px;
+    font-family: 'Caveat';
+}
+
+.card p {
+    text-align: center;
+    font-family: 'Caveat';
+    font-size: 24px;
+    padding: 20px;
+    color: #20225f
+}
+
+.card h2 {
+    text-align: center;
+    font-family: 'Caveat';
+    font-size: 36px;
+    color: #20225f
+}
+
+#Discover {
+    width: 30%;
+    border: 1px solid #00000000;
+}
+
+#SM {
+    width: 30%;
+    border: 1px solid #00000000;
+}
+
+#links {
+    width: 30%;
+    border: 1px solid #00000000;
+}
+
+#SM img {
+    width: 100%;
+}
+
+#footer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    background-image: url("Images/space-purple-blue-astronomy-wallpaper.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffde16;
+    font-family: 'Caveat';
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 60px;
+}
+
+#Discover button {
+    width: 250px;
+    height: 45px;
+    color: #20225f;
+    font-size: 15px;
+    background-color: aliceblue;
+    border-radius: 45px;
+    font-weight: bold;
+}
+
+#SM a {
+    position: relative;
+    left: 151px;
+    padding-right: 20px;
+}
+
+#SM p {
+    position: relative;
+    left: 115px;
+}
+
+footer li{
+    list-style-type: none;
+}
+
+#links a {
+    text-decoration: none
+}
+
