@@ -1,0 +1,49 @@
+﻿nav img {
+    width: 85px;
+}
+
+nav a:link {
+    color: darkblue !important;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #568dca !important;
+}
+
+/*nav {
+    background-color: gray !important;
+}*/
+
+nav button {
+    color: darkblue !important;
+    border-color: darkblue !important;
+}
+
+nav button:hover {
+    background-color: #568dca !important;
+    color: white !important;
+}
+
+.carousel-item img {
+    height: 800px;
+    object-fit: cover;
+}
+
+#intro p {
+    width: 40%;
+    color: darkblue;
+    text-align: justify
+}
+
+#intro img{
+    width: 40%
+}
+
+#intro{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 40px
+}

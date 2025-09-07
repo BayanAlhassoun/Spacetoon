@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Spacetoon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0436B8EC-8714-49D1-954D-205A8EE03014}|Spacetoon\\Spacetoon.csproj|c:\\users\\user\\source\\repos\\spacetoon\\spacetoon\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0436B8EC-8714-49D1-954D-205A8EE03014}|Spacetoon\\Spacetoon.csproj|solutionrelative:spacetoon\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0436B8EC-8714-49D1-954D-205A8EE03014}|Spacetoon\\Spacetoon.csproj|c:\\users\\user\\source\\repos\\spacetoon\\spacetoon\\homebootstrap.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0436B8EC-8714-49D1-954D-205A8EE03014}|Spacetoon\\Spacetoon.csproj|solutionrelative:spacetoon\\homebootstrap.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0436B8EC-8714-49D1-954D-205A8EE03014}|Spacetoon\\Spacetoon.csproj|c:\\users\\user\\source\\repos\\spacetoon\\spacetoon\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{0436B8EC-8714-49D1-954D-205A8EE03014}|Spacetoon\\Spacetoon.csproj|solutionrelative:spacetoon\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{0436B8EC-8714-49D1-954D-205A8EE03014}|Spacetoon\\Spacetoon.csproj|c:\\users\\user\\source\\repos\\spacetoon\\spacetoon\\stylesheetbootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0436B8EC-8714-49D1-954D-205A8EE03014}|Spacetoon\\Spacetoon.csproj|solutionrelative:spacetoon\\stylesheetbootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "StyleSheet.css",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Spacetoon\\Spacetoon\\StyleSheet.css",
-              "RelativeDocumentMoniker": "Spacetoon\\StyleSheet.css",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Spacetoon\\Spacetoon\\StyleSheet.css",
-              "RelativeToolTip": "Spacetoon\\StyleSheet.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Title": "StyleSheetBootstrap.css",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Spacetoon\\Spacetoon\\StyleSheetBootstrap.css",
+              "RelativeDocumentMoniker": "Spacetoon\\StyleSheetBootstrap.css",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Spacetoon\\Spacetoon\\StyleSheetBootstrap.css",
+              "RelativeToolTip": "Spacetoon\\StyleSheetBootstrap.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-09-03T12:51:44.093Z",
+              "WhenOpened": "2025-09-07T12:16:20.188Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Home.html",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Spacetoon\\Spacetoon\\Home.html",
-              "RelativeDocumentMoniker": "Spacetoon\\Home.html",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Spacetoon\\Spacetoon\\Home.html",
-              "RelativeToolTip": "Spacetoon\\Home.html",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Title": "HomeBootstrap.html",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Spacetoon\\Spacetoon\\HomeBootstrap.html",
+              "RelativeDocumentMoniker": "Spacetoon\\HomeBootstrap.html",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Spacetoon\\Spacetoon\\HomeBootstrap.html",
+              "RelativeToolTip": "Spacetoon\\HomeBootstrap.html",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBwAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-09-03T12:51:24.487Z",
+              "WhenOpened": "2025-09-07T12:16:01.612Z",
               "EditorCaption": ""
             }
           ]
