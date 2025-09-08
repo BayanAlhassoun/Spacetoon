@@ -31,3 +31,4 @@ C:\Users\User\source\repos\Spacetoon\Spacetoon\obj\Debug\net8.0\refint\Spacetoon
 C:\Users\User\source\repos\Spacetoon\Spacetoon\obj\Debug\net8.0\Spacetoon.pdb
 C:\Users\User\source\repos\Spacetoon\Spacetoon\obj\Debug\net8.0\Spacetoon.genruntimeconfig.cache
 C:\Users\User\source\repos\Spacetoon\Spacetoon\obj\Debug\net8.0\ref\Spacetoon.dll
+C:\Users\User\source\repos\Spacetoon\Spacetoon\obj\Debug\net8.0\Spacetoon.sourcelink.json

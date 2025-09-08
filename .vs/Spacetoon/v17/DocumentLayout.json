@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Spacetoon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0436B8EC-8714-49D1-954D-205A8EE03014}|Spacetoon\\Spacetoon.csproj|c:\\users\\user\\source\\repos\\spacetoon\\spacetoon\\stylesheetbootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{0436B8EC-8714-49D1-954D-205A8EE03014}|Spacetoon\\Spacetoon.csproj|solutionrelative:spacetoon\\stylesheetbootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{0436B8EC-8714-49D1-954D-205A8EE03014}|Spacetoon\\Spacetoon.csproj|c:\\users\\user\\source\\repos\\spacetoon\\spacetoon\\htmlpagegrid.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0436B8EC-8714-49D1-954D-205A8EE03014}|Spacetoon\\Spacetoon.csproj|solutionrelative:spacetoon\\htmlpagegrid.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0436B8EC-8714-49D1-954D-205A8EE03014}|Spacetoon\\Spacetoon.csproj|c:\\users\\user\\source\\repos\\spacetoon\\spacetoon\\homebootstrap.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0436B8EC-8714-49D1-954D-205A8EE03014}|Spacetoon\\Spacetoon.csproj|solutionrelative:spacetoon\\homebootstrap.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0436B8EC-8714-49D1-954D-205A8EE03014}|Spacetoon\\Spacetoon.csproj|c:\\users\\user\\source\\repos\\spacetoon\\spacetoon\\stylesheetbootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0436B8EC-8714-49D1-954D-205A8EE03014}|Spacetoon\\Spacetoon.csproj|solutionrelative:spacetoon\\stylesheetbootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,12 +27,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "htmlpageGrid.html",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Spacetoon\\Spacetoon\\htmlpageGrid.html",
+              "RelativeDocumentMoniker": "Spacetoon\\htmlpageGrid.html",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Spacetoon\\Spacetoon\\htmlpageGrid.html",
+              "RelativeToolTip": "Spacetoon\\htmlpageGrid.html",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-08T13:25:03.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "StyleSheetBootstrap.css",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Spacetoon\\Spacetoon\\StyleSheetBootstrap.css",
               "RelativeDocumentMoniker": "Spacetoon\\StyleSheetBootstrap.css",
               "ToolTip": "C:\\Users\\User\\source\\repos\\Spacetoon\\Spacetoon\\StyleSheetBootstrap.css",
               "RelativeToolTip": "Spacetoon\\StyleSheetBootstrap.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-09-07T12:16:20.188Z",
               "EditorCaption": ""
@@ -41,7 +58,7 @@
               "RelativeDocumentMoniker": "Spacetoon\\HomeBootstrap.html",
               "ToolTip": "C:\\Users\\User\\source\\repos\\Spacetoon\\Spacetoon\\HomeBootstrap.html",
               "RelativeToolTip": "Spacetoon\\HomeBootstrap.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAALAwAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAFQAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-09-07T12:16:01.612Z",
               "EditorCaption": ""

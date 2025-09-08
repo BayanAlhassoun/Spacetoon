@@ -2,7 +2,7 @@
     width: 85px;
 }
 
-nav a:link {
+.navlinks {
     color: darkblue !important;
     font-weight: bold;
 }
@@ -11,9 +11,9 @@ nav a:hover {
     color: #568dca !important;
 }
 
-/*nav {
-    background-color: gray !important;
-}*/
+.navBG {
+    background-color: #f0f8ff73 !important;
+}
 
 nav button {
     color: darkblue !important;
@@ -47,3 +47,50 @@ nav button:hover {
     align-items: center;
     margin-top: 40px
 }
+
+.card img {
+    width: 350px;
+    align-self: center;
+}
+
+.card h4 {
+    color: darkblue;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#trainees h1, #courses h1 {
+    text-align: center;
+    color: darkblue;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+#trainees {
+    margin: 80px 50px 80px 50px;
+}
+
+.card2 , .card3 {
+    box-shadow: 4px 4px 13px #0000ff42;
+    border-radius: 25px;
+    background-color: #f0f8ff73;
+    margin: 15px;
+}
+
+#courses {
+    margin: 0px 50px 80px 50px;
+}
+
+.card3 h5 {
+    color: darkblue;
+    font-weight: bold;
+}
+
+.myFooter {
+    background-color: #f8fcff;
+    color: darkblue !important;
+}
+
+    .myFooter a {
+        text-decoration: none;
+    }
