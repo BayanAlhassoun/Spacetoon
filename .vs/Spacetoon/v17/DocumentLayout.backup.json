@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Spacetoon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0436B8EC-8714-49D1-954D-205A8EE03014}|Spacetoon\\Spacetoon.csproj|c:\\users\\user\\source\\repos\\spacetoon\\spacetoon\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{0436B8EC-8714-49D1-954D-205A8EE03014}|Spacetoon\\Spacetoon.csproj|solutionrelative:spacetoon\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0436B8EC-8714-49D1-954D-205A8EE03014}|Spacetoon\\Spacetoon.csproj|c:\\users\\user\\source\\repos\\spacetoon\\spacetoon\\htmlpage_js.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0436B8EC-8714-49D1-954D-205A8EE03014}|Spacetoon\\Spacetoon.csproj|solutionrelative:spacetoon\\htmlpage_js.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0436B8EC-8714-49D1-954D-205A8EE03014}|Spacetoon\\Spacetoon.csproj|c:\\users\\user\\source\\repos\\spacetoon\\spacetoon\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0436B8EC-8714-49D1-954D-205A8EE03014}|Spacetoon\\Spacetoon.csproj|solutionrelative:spacetoon\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedHeight": 326,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "JavaScript.js",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Spacetoon\\Spacetoon\\JavaScript.js",
               "RelativeDocumentMoniker": "Spacetoon\\JavaScript.js",
               "ToolTip": "C:\\Users\\User\\source\\repos\\Spacetoon\\Spacetoon\\JavaScript.js",
               "RelativeToolTip": "Spacetoon\\JavaScript.js",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-09-09T11:44:35.26Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "htmlpage_JS.html",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Spacetoon\\Spacetoon\\htmlpage_JS.html",
               "RelativeDocumentMoniker": "Spacetoon\\htmlpage_JS.html",
               "ToolTip": "C:\\Users\\User\\source\\repos\\Spacetoon\\Spacetoon\\htmlpage_JS.html",
               "RelativeToolTip": "Spacetoon\\htmlpage_JS.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-09-09T11:43:22.16Z",
               "EditorCaption": ""
