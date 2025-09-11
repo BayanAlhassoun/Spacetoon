@@ -62,5 +62,82 @@ form[0].insertBefore(x1, inputs[0]);
 form[0].insertBefore(y1, inputs[1]);
 
 
+//document.getElementById("p1").remove();
+
+//let newP = document.createElement("p"); // <p> </p>
+//let text = document.createTextNode("New Paragraph"); // New Paragraph
+//newP.appendChild(text); // <p> New Paragraph </p>
+
+//let parent = document.getElementsByTagName("div"); // [div1, div2]
+//let child = document.getElementById("p2") // p
+
+//parent[0].replaceChild(newP, child);
+
+//let image = document.getElementsByTagName("img")[0]
+//image.src = "Images/Abjad.png"
+//image.style.width = "80px"
+
+//document.getElementsByClassName("c2")[0].className = "c1";
+
+//document.getElementsByClassName("c1")[0].style.color = "green"
+//document.getElementsByClassName("c1")[0].style.backgroundColor = "lightblue"
+//document.getElementsByClassName("c1")[0].style.fontFamily = "Arial"
 
 
+function ChangeText(element) {
+    console.log(element)
+    element.innerHTML = "Hello Trainees :)"
+}
+
+function ShowDate() {
+    let date = new Date().toDateString();
+    document.getElementById("p3").innerHTML = date
+}
+
+function ToUpper(element) {
+    console.log(element)
+    element.value = element.value.toUpperCase();
+    document.getElementById("p4").innerHTML = `Hello ${element.value}`
+}
+
+
+function CheckPassword(element) {
+    console.log(element)
+    if (element.value.length < 8) {
+        document.getElementById("pass").style.color = "red"
+        document.getElementById("pass").innerHTML = "password should be greater than 8 chars"
+    }
+}
+
+
+
+
+
+function Lamps() {
+
+    let lamp = document.getElementById("img3");
+
+    if (lamp.src == "https://www.w3schools.com/js/pic_bulboff.gif") {
+        lamp.src = "https://www.w3schools.com/js/pic_bulbon.gif"
+    }
+    else {
+        lamp.src = "https://www.w3schools.com/js/pic_bulboff.gif"
+    }
+}
+
+
+function Over(element)
+{
+    element.innerHTML = "Hello Trainees";
+    element.style.fontSize = "30px";
+    element.style.color = "red";
+    element.style.backgroundColor = "lightpink"
+}
+
+function Out(element) {
+    element.innerHTML = "Welcome"
+    element.style.fontSize = "20px";
+    element.style.color = "blue";
+    element.style.backgroundColor = "lightblue"
+
+}
